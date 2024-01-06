@@ -9,7 +9,9 @@ body{
     text-decoration: none;
     scroll-behavior: smooth;
 
-
+.messag{
+    font-size: 80px;
+}
 }
 .sidebar{
     position: fixed;
@@ -483,5 +485,14 @@ textarea{
     background-color: blue;
     transition: 1s;
 }
+#fullName{
+    font-size: 20px;
+}
+#email_id{
+    font-size: 20px;
 
+}
+#message{
+    font-size: 20px;
 
+}
