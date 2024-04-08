@@ -323,6 +323,7 @@ textarea{
     margin: 20px;
 }
 .paragraph{
+    margin: 5px;
     word-spacing: 5px;
     line-height: 30px;
 }
